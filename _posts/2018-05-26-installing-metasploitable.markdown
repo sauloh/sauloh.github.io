@@ -148,3 +148,8 @@ directory.
 
 And that's it. Now you are free to try your new tools and improve your hacking
 skills!
+
+[metasploitable-gh]: https://github.com/rapid7/metasploitable3
+[Packer]: https://www.packer.io/intro/getting-started/install.html
+[vagrant]: https://www.vagrantup.com/docs/installation/
+[vbox]: https://www.virtualbox.org/wiki/Downloads
